@@ -36,4 +36,4 @@ HEADERS += \
     drawwidget.h
 
 RESOURCES += \
-    res.qrc
+    resourse.qrc
